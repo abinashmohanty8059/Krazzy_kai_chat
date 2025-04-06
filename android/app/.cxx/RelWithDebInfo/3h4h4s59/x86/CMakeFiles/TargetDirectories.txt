@@ -1,0 +1,2 @@
+C:/Users/KIIT0001/Desktop/9/chat_app (9)/chat_app/android/app/.cxx/RelWithDebInfo/3h4h4s59/x86/CMakeFiles/edit_cache.dir
+C:/Users/KIIT0001/Desktop/9/chat_app (9)/chat_app/android/app/.cxx/RelWithDebInfo/3h4h4s59/x86/CMakeFiles/rebuild_cache.dir
